@@ -1,0 +1,10 @@
+D:\QUIZ_IUI\QUIZ_IUI\QUIZ_IUI\bin\Debug\QUIZ_IUI.exe.config
+D:\QUIZ_IUI\QUIZ_IUI\QUIZ_IUI\bin\Debug\QUIZ_IUI.exe
+D:\QUIZ_IUI\QUIZ_IUI\QUIZ_IUI\bin\Debug\QUIZ_IUI.pdb
+D:\QUIZ_IUI\QUIZ_IUI\QUIZ_IUI\obj\Debug\QUIZ_IUI.csprojAssemblyReference.cache
+D:\QUIZ_IUI\QUIZ_IUI\QUIZ_IUI\obj\Debug\QUIZ_IUI.Form1.resources
+D:\QUIZ_IUI\QUIZ_IUI\QUIZ_IUI\obj\Debug\QUIZ_IUI.Properties.Resources.resources
+D:\QUIZ_IUI\QUIZ_IUI\QUIZ_IUI\obj\Debug\QUIZ_IUI.csproj.GenerateResource.cache
+D:\QUIZ_IUI\QUIZ_IUI\QUIZ_IUI\obj\Debug\QUIZ_IUI.csproj.CoreCompileInputs.cache
+D:\QUIZ_IUI\QUIZ_IUI\QUIZ_IUI\obj\Debug\QUIZ_IUI.exe
+D:\QUIZ_IUI\QUIZ_IUI\QUIZ_IUI\obj\Debug\QUIZ_IUI.pdb
